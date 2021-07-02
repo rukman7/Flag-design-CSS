@@ -1,3 +1,9 @@
+/*General CSS*/
+body{
+  background-color: #e6e8eb;
+}
+
+/*India flag */
 .india-flag-exo{
     background: linear-gradient(#FF9933 33.3%, #FFFFFF 33.3%, #FFFFFF 66.6%, #138808 66.6%);
     width: 270px;
@@ -148,4 +154,12 @@
 
 .spoke24 {
   transform: rotate(345deg);
+}
+
+/*Russia flag*/
+.russia-flag{
+  background: linear-gradient(#FFFFFF 33.3%, #0033A0 33.3%, #0033A0 66.6%, #DA291C 66.6%);
+  width: 270px;
+  height: 180px;
+  margin: auto;
 }
